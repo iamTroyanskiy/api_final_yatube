@@ -6,7 +6,7 @@
   <br>
   <img src="https://github.com/tonik350/img/blob/main/API.png?raw=true"  width="500"></a>
   <br>
-    API для социальни сети Yatube
+    API для социальной сети Yatube
   <br>
 </h1>
 
